@@ -1,0 +1,2 @@
+rootProject.name = "ScooterGo"
+include ':app'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123538853390",
+    "firebase_url": "https://scootergo-6f8ae-default-rtdb.firebaseio.com",
+    "project_id": "scootergo-6f8ae",
+    "storage_bucket": "scootergo-6f8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123538853390:android:fa70ebc64ab40a38cdb65f",
+        "android_client_info": {
+          "package_name": "net.scootergo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123538853390-9g7vkr1cn5ipg12h8jiacgf36dfjubch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKcTn0ixzMep6Wn-aJgIV58_mbf46YUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123538853390-9g7vkr1cn5ipg12h8jiacgf36dfjubch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
